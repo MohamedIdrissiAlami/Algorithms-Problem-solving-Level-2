@@ -1,4 +1,4 @@
-## Ex-44 : count negative numbers in arrays :  
+## Ex-45 : count negative numbers in arrays :  
 Write a program to fill array with random numbers from -100 to 100 ,then print the count of `negative` numbers.  
 ### Example:  
 input :  

@@ -1,4 +1,4 @@
-## Ex-48 : My ceil :  
+## Ex-49 : My ceil :  
 Write a program to print `ceil` of number .Don't use built-in `ceil` function in C++.  
 ### Example :  
 input :  
